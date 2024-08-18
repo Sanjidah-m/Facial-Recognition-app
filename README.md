@@ -10,7 +10,7 @@ The project is implemented in Python using TensorFlow and includes a Jupyter not
 - **Real-Time Integration**: The model can be adapted for real-time facial recognition applications.
 
 ### Dataset:
-The facial recognition model is trained on a well-curated dataset, which you can download from [here]([https://drive.google.com/file/d/1yL3SgY7QnAmqYiy4DQvlrIHXFbf2vII7/view?usp=sharing])
+The facial recognition model is trained on a well-curated dataset, which you can download from [dataset]([https://drive.google.com/file/d/1yL3SgY7QnAmqYiy4DQvlrIHXFbf2vII7/view?usp=sharing])
 
 ### Reference Paper:
-The approach and methodology are inspired by the research paper *"Siamese Neural Networks for One-Shot Image Recognition"*. You can read the paper [here]([https://example-paper-link.com](http://vis-www.cs.umass.edu/lfw/)).
+The approach and methodology are inspired by the research paper *"Siamese Neural Networks for One-Shot Image Recognition"*. You can read the paper [reference paper]([https://example-paper-link.com](http://vis-www.cs.umass.edu/lfw/)).
